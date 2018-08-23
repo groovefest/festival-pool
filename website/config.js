@@ -1,12 +1,12 @@
-var api = "http://pool.arto.cash:8117";
+var api = "http://80.211.166.244:8117";
 
 var api_blockexplorer = "";
 
-var poolHost = "pool.arto.cash";
+var poolHost = "80.211.166.244";
 
 var irc = "";
 
-var email = "dev@arto.cash";
+var email = "taha.aarian@gmail.com";
 
 var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
 
@@ -19,7 +19,7 @@ var transactionExplorer = "http://explorer.arto.cash/?hash={id}#blockchain_trans
 var themeCss = "themes/default-theme.css";
 
 var networkStat = {
-    "rto": [
-		["pool.arto.cash", "http://pool.arto.cash:8117"]
+    "fest": [
+		["80.211.166.244", "http://80.211.166.244:8117"]
     ]
 };
