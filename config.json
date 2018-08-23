@@ -1,8 +1,8 @@
 {
-    "coin": "arto",
-    "symbol": "RTO",
+    "coin": "festival",
+    "symbol": "FEST",
     "coinUnits": 100000000,
-    "coinDifficultyTarget": 90,
+    "coinDifficultyTarget": 120,
 
     "logging": {
         "files": {
@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "your_pool_wallet_address",
+        "poolAddress": "fySnJasZfo9cFGQxgkQiapMCMH7YNerBcinhfK52tmJ93RMVn9a6qGucJzjDoVrCfkH5XVhwugjBUbBuvn4aaAcD2eYdJr7jN",
         "blockRefreshInterval": 1000,
 		"addressSeparator": ".",
         "minerTimeout": 900,
@@ -49,7 +49,7 @@
         "varDiff": {
             "minDiff": 100,
             "maxDiff": 200000,
-            "targetTime": 100,
+            "targetTime": 120,
             "retargetTime": 30,
             "variancePercent": 30,
             "maxJump": 100
@@ -111,12 +111,12 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 19451
+        "port": 12346
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 19452
+        "port": 8350
     },
 
     "redis": {
