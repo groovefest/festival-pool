@@ -14,7 +14,7 @@
         "cli-color": "*",
         "dateformat": "*",
         "base58-native": "*",
-        "cryptonote-util": "git://github.com/artocash/node-cryptonote-util.git"
+        "cryptonote-util": "https://github.com/FestivalCoinDev/node-cryptonote-util.git"
     },
     "engines": {
         "node": ">=0.10"
