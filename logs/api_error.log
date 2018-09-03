@@ -1,0 +1,1208 @@
+2018-08-28 17:15:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:12 Error collecting all stats
+2018-08-28 17:15:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:17 Error collecting all stats
+2018-08-28 17:15:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:22 Error collecting all stats
+2018-08-28 17:15:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:27 Error collecting all stats
+2018-08-28 17:15:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:32 Error collecting all stats
+2018-08-28 17:15:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:37 Error collecting all stats
+2018-08-28 17:15:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:42 Error collecting all stats
+2018-08-28 17:15:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:47 Error collecting all stats
+2018-08-28 17:15:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:52 Error collecting all stats
+2018-08-28 17:15:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:15:57 Error collecting all stats
+2018-08-28 17:16:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:02 Error collecting all stats
+2018-08-28 17:16:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:07 Error collecting all stats
+2018-08-28 17:16:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:12 Error collecting all stats
+2018-08-28 17:16:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:17 Error collecting all stats
+2018-08-28 17:16:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:22 Error collecting all stats
+2018-08-28 17:16:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:27 Error collecting all stats
+2018-08-28 17:16:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:32 Error collecting all stats
+2018-08-28 17:16:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:37 Error collecting all stats
+2018-08-28 17:16:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:42 Error collecting all stats
+2018-08-28 17:16:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:47 Error collecting all stats
+2018-08-28 17:16:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:52 Error collecting all stats
+2018-08-28 17:16:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:16:57 Error collecting all stats
+2018-08-28 17:17:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:02 Error collecting all stats
+2018-08-28 17:17:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:07 Error collecting all stats
+2018-08-28 17:17:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:12 Error collecting all stats
+2018-08-28 17:17:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:17 Error collecting all stats
+2018-08-28 17:17:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:22 Error collecting all stats
+2018-08-28 17:17:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:27 Error collecting all stats
+2018-08-28 17:17:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:32 Error collecting all stats
+2018-08-28 17:17:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:37 Error collecting all stats
+2018-08-28 17:17:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:42 Error collecting all stats
+2018-08-28 17:17:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:47 Error collecting all stats
+2018-08-28 17:17:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:52 Error collecting all stats
+2018-08-28 17:17:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:17:57 Error collecting all stats
+2018-08-28 17:18:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:02 Error collecting all stats
+2018-08-28 17:18:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:07 Error collecting all stats
+2018-08-28 17:18:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:12 Error collecting all stats
+2018-08-28 17:18:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:17 Error collecting all stats
+2018-08-28 17:18:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:22 Error collecting all stats
+2018-08-28 17:18:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:27 Error collecting all stats
+2018-08-28 17:18:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:32 Error collecting all stats
+2018-08-28 17:18:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:37 Error collecting all stats
+2018-08-28 17:18:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:42 Error collecting all stats
+2018-08-28 17:18:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:47 Error collecting all stats
+2018-08-28 17:18:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:52 Error collecting all stats
+2018-08-28 17:18:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:18:57 Error collecting all stats
+2018-08-28 17:19:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:02 Error collecting all stats
+2018-08-28 17:19:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:07 Error collecting all stats
+2018-08-28 17:19:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:12 Error collecting all stats
+2018-08-28 17:19:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:17 Error collecting all stats
+2018-08-28 17:19:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:22 Error collecting all stats
+2018-08-28 17:19:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:27 Error collecting all stats
+2018-08-28 17:19:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:32 Error collecting all stats
+2018-08-28 17:19:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:37 Error collecting all stats
+2018-08-28 17:19:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:42 Error collecting all stats
+2018-08-28 17:19:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:47 Error collecting all stats
+2018-08-28 17:19:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:52 Error collecting all stats
+2018-08-28 17:19:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:19:57 Error collecting all stats
+2018-08-28 17:20:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:02 Error collecting all stats
+2018-08-28 17:20:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:07 Error collecting all stats
+2018-08-28 17:20:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:12 Error collecting all stats
+2018-08-28 17:20:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:17 Error collecting all stats
+2018-08-28 17:20:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:22 Error collecting all stats
+2018-08-28 17:20:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:27 Error collecting all stats
+2018-08-28 17:20:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:32 Error collecting all stats
+2018-08-28 17:20:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:37 Error collecting all stats
+2018-08-28 17:20:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:42 Error collecting all stats
+2018-08-28 17:20:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:47 Error collecting all stats
+2018-08-28 17:20:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:52 Error collecting all stats
+2018-08-28 17:20:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:20:57 Error collecting all stats
+2018-08-28 17:21:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:02 Error collecting all stats
+2018-08-28 17:21:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:07 Error collecting all stats
+2018-08-28 17:21:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:12 Error collecting all stats
+2018-08-28 17:21:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:17 Error collecting all stats
+2018-08-28 17:21:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:22 Error collecting all stats
+2018-08-28 17:21:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:27 Error collecting all stats
+2018-08-28 17:21:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:32 Error collecting all stats
+2018-08-28 17:21:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:37 Error collecting all stats
+2018-08-28 17:21:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:42 Error collecting all stats
+2018-08-28 17:21:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:47 Error collecting all stats
+2018-08-28 17:21:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:52 Error collecting all stats
+2018-08-28 17:21:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:21:57 Error collecting all stats
+2018-08-28 17:22:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:02 Error collecting all stats
+2018-08-28 17:22:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:07 Error collecting all stats
+2018-08-28 17:22:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:12 Error collecting all stats
+2018-08-28 17:22:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:17 Error collecting all stats
+2018-08-28 17:22:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:22 Error collecting all stats
+2018-08-28 17:22:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:27 Error collecting all stats
+2018-08-28 17:22:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:32 Error collecting all stats
+2018-08-28 17:22:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:37 Error collecting all stats
+2018-08-28 17:22:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:42 Error collecting all stats
+2018-08-28 17:22:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:47 Error collecting all stats
+2018-08-28 17:22:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:52 Error collecting all stats
+2018-08-28 17:22:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:22:57 Error collecting all stats
+2018-08-28 17:23:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:02 Error collecting all stats
+2018-08-28 17:23:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:07 Error collecting all stats
+2018-08-28 17:23:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:12 Error collecting all stats
+2018-08-28 17:23:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:17 Error collecting all stats
+2018-08-28 17:23:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:22 Error collecting all stats
+2018-08-28 17:23:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:27 Error collecting all stats
+2018-08-28 17:23:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:32 Error collecting all stats
+2018-08-28 17:23:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:37 Error collecting all stats
+2018-08-28 17:23:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:42 Error collecting all stats
+2018-08-28 17:23:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:47 Error collecting all stats
+2018-08-28 17:23:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:52 Error collecting all stats
+2018-08-28 17:23:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:23:57 Error collecting all stats
+2018-08-28 17:24:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:02 Error collecting all stats
+2018-08-28 17:24:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:07 Error collecting all stats
+2018-08-28 17:24:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:12 Error collecting all stats
+2018-08-28 17:24:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:17 Error collecting all stats
+2018-08-28 17:24:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:22 Error collecting all stats
+2018-08-28 17:24:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:27 Error collecting all stats
+2018-08-28 17:24:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:32 Error collecting all stats
+2018-08-28 17:24:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:37 Error collecting all stats
+2018-08-28 17:24:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:42 Error collecting all stats
+2018-08-28 17:24:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:47 Error collecting all stats
+2018-08-28 17:24:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:52 Error collecting all stats
+2018-08-28 17:24:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:24:57 Error collecting all stats
+2018-08-28 17:25:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:02 Error collecting all stats
+2018-08-28 17:25:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:07 Error collecting all stats
+2018-08-28 17:25:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:12 Error collecting all stats
+2018-08-28 17:25:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:17 Error collecting all stats
+2018-08-28 17:25:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:22 Error collecting all stats
+2018-08-28 17:25:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:27 Error collecting all stats
+2018-08-28 17:25:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:32 Error collecting all stats
+2018-08-28 17:25:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:37 Error collecting all stats
+2018-08-28 17:25:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:42 Error collecting all stats
+2018-08-28 17:25:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:47 Error collecting all stats
+2018-08-28 17:25:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:52 Error collecting all stats
+2018-08-28 17:25:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:25:57 Error collecting all stats
+2018-08-28 17:26:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:02 Error collecting all stats
+2018-08-28 17:26:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:07 Error collecting all stats
+2018-08-28 17:26:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:12 Error collecting all stats
+2018-08-28 17:26:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:17 Error collecting all stats
+2018-08-28 17:26:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:22 Error collecting all stats
+2018-08-28 17:26:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:27 Error collecting all stats
+2018-08-28 17:26:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:32 Error collecting all stats
+2018-08-28 17:26:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:37 Error collecting all stats
+2018-08-28 17:26:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:42 Error collecting all stats
+2018-08-28 17:26:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:47 Error collecting all stats
+2018-08-28 17:26:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:52 Error collecting all stats
+2018-08-28 17:26:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:26:57 Error collecting all stats
+2018-08-28 17:27:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:02 Error collecting all stats
+2018-08-28 17:27:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:07 Error collecting all stats
+2018-08-28 17:27:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:12 Error collecting all stats
+2018-08-28 17:27:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:17 Error collecting all stats
+2018-08-28 17:27:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:22 Error collecting all stats
+2018-08-28 17:27:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:27 Error collecting all stats
+2018-08-28 17:27:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:32 Error collecting all stats
+2018-08-28 17:27:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:37 Error collecting all stats
+2018-08-28 17:27:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:42 Error collecting all stats
+2018-08-28 17:27:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:47 Error collecting all stats
+2018-08-28 17:27:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:52 Error collecting all stats
+2018-08-28 17:27:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:27:57 Error collecting all stats
+2018-08-28 17:28:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:02 Error collecting all stats
+2018-08-28 17:28:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:07 Error collecting all stats
+2018-08-28 17:28:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:12 Error collecting all stats
+2018-08-28 17:28:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:17 Error collecting all stats
+2018-08-28 17:28:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:22 Error collecting all stats
+2018-08-28 17:28:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:27 Error collecting all stats
+2018-08-28 17:28:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:32 Error collecting all stats
+2018-08-28 17:28:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:37 Error collecting all stats
+2018-08-28 17:28:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:42 Error collecting all stats
+2018-08-28 17:28:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:47 Error collecting all stats
+2018-08-28 17:28:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:52 Error collecting all stats
+2018-08-28 17:28:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:28:57 Error collecting all stats
+2018-08-28 17:29:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:02 Error collecting all stats
+2018-08-28 17:29:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:07 Error collecting all stats
+2018-08-28 17:29:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:12 Error collecting all stats
+2018-08-28 17:29:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:17 Error collecting all stats
+2018-08-28 17:29:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:22 Error collecting all stats
+2018-08-28 17:29:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:27 Error collecting all stats
+2018-08-28 17:29:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:32 Error collecting all stats
+2018-08-28 17:29:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:37 Error collecting all stats
+2018-08-28 17:29:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:42 Error collecting all stats
+2018-08-28 17:29:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:47 Error collecting all stats
+2018-08-28 17:29:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:52 Error collecting all stats
+2018-08-28 17:29:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:29:57 Error collecting all stats
+2018-08-28 17:30:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:02 Error collecting all stats
+2018-08-28 17:30:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:07 Error collecting all stats
+2018-08-28 17:30:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:12 Error collecting all stats
+2018-08-28 17:30:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:17 Error collecting all stats
+2018-08-28 17:30:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:22 Error collecting all stats
+2018-08-28 17:30:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:27 Error collecting all stats
+2018-08-28 17:30:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:32 Error collecting all stats
+2018-08-28 17:30:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:37 Error collecting all stats
+2018-08-28 17:30:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:42 Error collecting all stats
+2018-08-28 17:30:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:47 Error collecting all stats
+2018-08-28 17:30:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:52 Error collecting all stats
+2018-08-28 17:30:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:30:57 Error collecting all stats
+2018-08-28 17:31:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:02 Error collecting all stats
+2018-08-28 17:31:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:07 Error collecting all stats
+2018-08-28 17:31:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:12 Error collecting all stats
+2018-08-28 17:31:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:17 Error collecting all stats
+2018-08-28 17:31:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:22 Error collecting all stats
+2018-08-28 17:31:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:27 Error collecting all stats
+2018-08-28 17:31:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:32 Error collecting all stats
+2018-08-28 17:31:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:37 Error collecting all stats
+2018-08-28 17:31:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:42 Error collecting all stats
+2018-08-28 17:31:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:47 Error collecting all stats
+2018-08-28 17:31:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:52 Error collecting all stats
+2018-08-28 17:31:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:31:57 Error collecting all stats
+2018-08-28 17:32:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:02 Error collecting all stats
+2018-08-28 17:32:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:07 Error collecting all stats
+2018-08-28 17:32:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:12 Error collecting all stats
+2018-08-28 17:32:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:17 Error collecting all stats
+2018-08-28 17:32:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:22 Error collecting all stats
+2018-08-28 17:32:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:27 Error collecting all stats
+2018-08-28 17:32:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:32 Error collecting all stats
+2018-08-28 17:32:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:37 Error collecting all stats
+2018-08-28 17:32:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:42 Error collecting all stats
+2018-08-28 17:32:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:47 Error collecting all stats
+2018-08-28 17:32:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:52 Error collecting all stats
+2018-08-28 17:32:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:32:57 Error collecting all stats
+2018-08-28 17:33:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:02 Error collecting all stats
+2018-08-28 17:33:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:07 Error collecting all stats
+2018-08-28 17:33:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:12 Error collecting all stats
+2018-08-28 17:33:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:17 Error collecting all stats
+2018-08-28 17:33:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:22 Error collecting all stats
+2018-08-28 17:33:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:27 Error collecting all stats
+2018-08-28 17:33:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:32 Error collecting all stats
+2018-08-28 17:33:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:37 Error collecting all stats
+2018-08-28 17:33:42 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:42 Error collecting all stats
+2018-08-28 17:33:47 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:47 Error collecting all stats
+2018-08-28 17:33:52 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:52 Error collecting all stats
+2018-08-28 17:33:57 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:33:57 Error collecting all stats
+2018-08-28 17:34:02 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:02 Error collecting all stats
+2018-08-28 17:34:07 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:07 Error collecting all stats
+2018-08-28 17:34:12 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:12 Error collecting all stats
+2018-08-28 17:34:17 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:17 Error collecting all stats
+2018-08-28 17:34:22 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:22 Error collecting all stats
+2018-08-28 17:34:27 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:27 Error collecting all stats
+2018-08-28 17:34:32 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:32 Error collecting all stats
+2018-08-28 17:34:37 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:37 Error collecting all stats
+2018-08-28 17:34:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:43 Error collecting all stats
+2018-08-28 17:34:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:48 Error collecting all stats
+2018-08-28 17:34:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:53 Error collecting all stats
+2018-08-28 17:34:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:34:58 Error collecting all stats
+2018-08-28 17:35:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:03 Error collecting all stats
+2018-08-28 17:35:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:08 Error collecting all stats
+2018-08-28 17:35:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:13 Error collecting all stats
+2018-08-28 17:35:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:18 Error collecting all stats
+2018-08-28 17:35:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:23 Error collecting all stats
+2018-08-28 17:35:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:28 Error collecting all stats
+2018-08-28 17:35:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:33 Error collecting all stats
+2018-08-28 17:35:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:38 Error collecting all stats
+2018-08-28 17:35:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:43 Error collecting all stats
+2018-08-28 17:35:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:48 Error collecting all stats
+2018-08-28 17:35:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:53 Error collecting all stats
+2018-08-28 17:35:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:35:58 Error collecting all stats
+2018-08-28 17:36:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:03 Error collecting all stats
+2018-08-28 17:36:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:08 Error collecting all stats
+2018-08-28 17:36:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:13 Error collecting all stats
+2018-08-28 17:36:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:18 Error collecting all stats
+2018-08-28 17:36:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:23 Error collecting all stats
+2018-08-28 17:36:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:28 Error collecting all stats
+2018-08-28 17:36:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:33 Error collecting all stats
+2018-08-28 17:36:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:38 Error collecting all stats
+2018-08-28 17:36:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:43 Error collecting all stats
+2018-08-28 17:36:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:48 Error collecting all stats
+2018-08-28 17:36:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:53 Error collecting all stats
+2018-08-28 17:36:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:36:58 Error collecting all stats
+2018-08-28 17:37:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:03 Error collecting all stats
+2018-08-28 17:37:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:08 Error collecting all stats
+2018-08-28 17:37:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:13 Error collecting all stats
+2018-08-28 17:37:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:18 Error collecting all stats
+2018-08-28 17:37:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:23 Error collecting all stats
+2018-08-28 17:37:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:28 Error collecting all stats
+2018-08-28 17:37:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:33 Error collecting all stats
+2018-08-28 17:37:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:38 Error collecting all stats
+2018-08-28 17:37:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:43 Error collecting all stats
+2018-08-28 17:37:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:48 Error collecting all stats
+2018-08-28 17:37:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:53 Error collecting all stats
+2018-08-28 17:37:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:37:58 Error collecting all stats
+2018-08-28 17:38:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:03 Error collecting all stats
+2018-08-28 17:38:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:08 Error collecting all stats
+2018-08-28 17:38:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:13 Error collecting all stats
+2018-08-28 17:38:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:18 Error collecting all stats
+2018-08-28 17:38:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:23 Error collecting all stats
+2018-08-28 17:38:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:28 Error collecting all stats
+2018-08-28 17:38:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:33 Error collecting all stats
+2018-08-28 17:38:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:38 Error collecting all stats
+2018-08-28 17:38:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:43 Error collecting all stats
+2018-08-28 17:38:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:48 Error collecting all stats
+2018-08-28 17:38:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:53 Error collecting all stats
+2018-08-28 17:38:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:38:58 Error collecting all stats
+2018-08-28 17:39:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:03 Error collecting all stats
+2018-08-28 17:39:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:08 Error collecting all stats
+2018-08-28 17:39:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:13 Error collecting all stats
+2018-08-28 17:39:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:18 Error collecting all stats
+2018-08-28 17:39:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:23 Error collecting all stats
+2018-08-28 17:39:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:28 Error collecting all stats
+2018-08-28 17:39:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:33 Error collecting all stats
+2018-08-28 17:39:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:38 Error collecting all stats
+2018-08-28 17:39:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:43 Error collecting all stats
+2018-08-28 17:39:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:48 Error collecting all stats
+2018-08-28 17:39:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:53 Error collecting all stats
+2018-08-28 17:39:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:39:58 Error collecting all stats
+2018-08-28 17:40:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:03 Error collecting all stats
+2018-08-28 17:40:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:08 Error collecting all stats
+2018-08-28 17:40:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:13 Error collecting all stats
+2018-08-28 17:40:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:18 Error collecting all stats
+2018-08-28 17:40:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:23 Error collecting all stats
+2018-08-28 17:40:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:28 Error collecting all stats
+2018-08-28 17:40:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:33 Error collecting all stats
+2018-08-28 17:40:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:38 Error collecting all stats
+2018-08-28 17:40:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:43 Error collecting all stats
+2018-08-28 17:40:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:48 Error collecting all stats
+2018-08-28 17:40:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:53 Error collecting all stats
+2018-08-28 17:40:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:40:58 Error collecting all stats
+2018-08-28 17:41:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:03 Error collecting all stats
+2018-08-28 17:41:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:08 Error collecting all stats
+2018-08-28 17:41:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:13 Error collecting all stats
+2018-08-28 17:41:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:18 Error collecting all stats
+2018-08-28 17:41:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:23 Error collecting all stats
+2018-08-28 17:41:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:28 Error collecting all stats
+2018-08-28 17:41:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:33 Error collecting all stats
+2018-08-28 17:41:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:38 Error collecting all stats
+2018-08-28 17:41:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:43 Error collecting all stats
+2018-08-28 17:41:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:48 Error collecting all stats
+2018-08-28 17:41:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:53 Error collecting all stats
+2018-08-28 17:41:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:41:58 Error collecting all stats
+2018-08-28 17:42:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:03 Error collecting all stats
+2018-08-28 17:42:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:08 Error collecting all stats
+2018-08-28 17:42:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:13 Error collecting all stats
+2018-08-28 17:42:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:18 Error collecting all stats
+2018-08-28 17:42:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:23 Error collecting all stats
+2018-08-28 17:42:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:28 Error collecting all stats
+2018-08-28 17:42:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:33 Error collecting all stats
+2018-08-28 17:42:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:38 Error collecting all stats
+2018-08-28 17:42:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:43 Error collecting all stats
+2018-08-28 17:42:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:48 Error collecting all stats
+2018-08-28 17:42:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:53 Error collecting all stats
+2018-08-28 17:42:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:42:58 Error collecting all stats
+2018-08-28 17:43:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:03 Error collecting all stats
+2018-08-28 17:43:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:08 Error collecting all stats
+2018-08-28 17:43:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:13 Error collecting all stats
+2018-08-28 17:43:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:18 Error collecting all stats
+2018-08-28 17:43:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:23 Error collecting all stats
+2018-08-28 17:43:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:28 Error collecting all stats
+2018-08-28 17:43:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:33 Error collecting all stats
+2018-08-28 17:43:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:38 Error collecting all stats
+2018-08-28 17:43:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:43 Error collecting all stats
+2018-08-28 17:43:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:48 Error collecting all stats
+2018-08-28 17:43:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:53 Error collecting all stats
+2018-08-28 17:43:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:43:58 Error collecting all stats
+2018-08-28 17:44:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:03 Error collecting all stats
+2018-08-28 17:44:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:08 Error collecting all stats
+2018-08-28 17:44:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:13 Error collecting all stats
+2018-08-28 17:44:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:18 Error collecting all stats
+2018-08-28 17:44:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:23 Error collecting all stats
+2018-08-28 17:44:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:28 Error collecting all stats
+2018-08-28 17:44:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:33 Error collecting all stats
+2018-08-28 17:44:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:38 Error collecting all stats
+2018-08-28 17:44:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:43 Error collecting all stats
+2018-08-28 17:44:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:48 Error collecting all stats
+2018-08-28 17:44:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:53 Error collecting all stats
+2018-08-28 17:44:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:44:58 Error collecting all stats
+2018-08-28 17:45:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:03 Error collecting all stats
+2018-08-28 17:45:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:08 Error collecting all stats
+2018-08-28 17:45:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:13 Error collecting all stats
+2018-08-28 17:45:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:18 Error collecting all stats
+2018-08-28 17:45:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:23 Error collecting all stats
+2018-08-28 17:45:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:28 Error collecting all stats
+2018-08-28 17:45:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:33 Error collecting all stats
+2018-08-28 17:45:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:38 Error collecting all stats
+2018-08-28 17:45:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:43 Error collecting all stats
+2018-08-28 17:45:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:48 Error collecting all stats
+2018-08-28 17:45:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:53 Error collecting all stats
+2018-08-28 17:45:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:45:58 Error collecting all stats
+2018-08-28 17:46:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:03 Error collecting all stats
+2018-08-28 17:46:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:08 Error collecting all stats
+2018-08-28 17:46:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:13 Error collecting all stats
+2018-08-28 17:46:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:18 Error collecting all stats
+2018-08-28 17:46:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:23 Error collecting all stats
+2018-08-28 17:46:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:28 Error collecting all stats
+2018-08-28 17:46:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:33 Error collecting all stats
+2018-08-28 17:46:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:38 Error collecting all stats
+2018-08-28 17:46:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:43 Error collecting all stats
+2018-08-28 17:46:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:48 Error collecting all stats
+2018-08-28 17:46:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:53 Error collecting all stats
+2018-08-28 17:46:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:46:58 Error collecting all stats
+2018-08-28 17:47:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:03 Error collecting all stats
+2018-08-28 17:47:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:08 Error collecting all stats
+2018-08-28 17:47:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:13 Error collecting all stats
+2018-08-28 17:47:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:18 Error collecting all stats
+2018-08-28 17:47:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:23 Error collecting all stats
+2018-08-28 17:47:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:28 Error collecting all stats
+2018-08-28 17:47:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:33 Error collecting all stats
+2018-08-28 17:47:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:38 Error collecting all stats
+2018-08-28 17:47:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:43 Error collecting all stats
+2018-08-28 17:47:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:48 Error collecting all stats
+2018-08-28 17:47:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:53 Error collecting all stats
+2018-08-28 17:47:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:47:58 Error collecting all stats
+2018-08-28 17:48:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:03 Error collecting all stats
+2018-08-28 17:48:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:08 Error collecting all stats
+2018-08-28 17:48:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:13 Error collecting all stats
+2018-08-28 17:48:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:18 Error collecting all stats
+2018-08-28 17:48:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:23 Error collecting all stats
+2018-08-28 17:48:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:28 Error collecting all stats
+2018-08-28 17:48:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:33 Error collecting all stats
+2018-08-28 17:48:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:38 Error collecting all stats
+2018-08-28 17:48:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:43 Error collecting all stats
+2018-08-28 17:48:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:48 Error collecting all stats
+2018-08-28 17:48:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:53 Error collecting all stats
+2018-08-28 17:48:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:48:58 Error collecting all stats
+2018-08-28 17:49:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:03 Error collecting all stats
+2018-08-28 17:49:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:08 Error collecting all stats
+2018-08-28 17:49:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:13 Error collecting all stats
+2018-08-28 17:49:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:18 Error collecting all stats
+2018-08-28 17:49:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:23 Error collecting all stats
+2018-08-28 17:49:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:28 Error collecting all stats
+2018-08-28 17:49:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:33 Error collecting all stats
+2018-08-28 17:49:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:38 Error collecting all stats
+2018-08-28 17:49:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:43 Error collecting all stats
+2018-08-28 17:49:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:48 Error collecting all stats
+2018-08-28 17:49:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:53 Error collecting all stats
+2018-08-28 17:49:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:49:58 Error collecting all stats
+2018-08-28 17:50:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:03 Error collecting all stats
+2018-08-28 17:50:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:08 Error collecting all stats
+2018-08-28 17:50:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:13 Error collecting all stats
+2018-08-28 17:50:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:18 Error collecting all stats
+2018-08-28 17:50:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:23 Error collecting all stats
+2018-08-28 17:50:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:28 Error collecting all stats
+2018-08-28 17:50:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:33 Error collecting all stats
+2018-08-28 17:50:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:38 Error collecting all stats
+2018-08-28 17:50:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:43 Error collecting all stats
+2018-08-28 17:50:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:48 Error collecting all stats
+2018-08-28 17:50:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:53 Error collecting all stats
+2018-08-28 17:50:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:50:58 Error collecting all stats
+2018-08-28 17:51:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:03 Error collecting all stats
+2018-08-28 17:51:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:08 Error collecting all stats
+2018-08-28 17:51:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:13 Error collecting all stats
+2018-08-28 17:51:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:18 Error collecting all stats
+2018-08-28 17:51:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:23 Error collecting all stats
+2018-08-28 17:51:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:28 Error collecting all stats
+2018-08-28 17:51:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:33 Error collecting all stats
+2018-08-28 17:51:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:38 Error collecting all stats
+2018-08-28 17:51:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:43 Error collecting all stats
+2018-08-28 17:51:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:48 Error collecting all stats
+2018-08-28 17:51:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:53 Error collecting all stats
+2018-08-28 17:51:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:51:58 Error collecting all stats
+2018-08-28 17:52:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:03 Error collecting all stats
+2018-08-28 17:52:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:08 Error collecting all stats
+2018-08-28 17:52:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:13 Error collecting all stats
+2018-08-28 17:52:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:18 Error collecting all stats
+2018-08-28 17:52:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:23 Error collecting all stats
+2018-08-28 17:52:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:28 Error collecting all stats
+2018-08-28 17:52:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:33 Error collecting all stats
+2018-08-28 17:52:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:38 Error collecting all stats
+2018-08-28 17:52:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:43 Error collecting all stats
+2018-08-28 17:52:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:48 Error collecting all stats
+2018-08-28 17:52:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:53 Error collecting all stats
+2018-08-28 17:52:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:52:58 Error collecting all stats
+2018-08-28 17:53:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:03 Error collecting all stats
+2018-08-28 17:53:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:08 Error collecting all stats
+2018-08-28 17:53:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:13 Error collecting all stats
+2018-08-28 17:53:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:18 Error collecting all stats
+2018-08-28 17:53:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:23 Error collecting all stats
+2018-08-28 17:53:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:28 Error collecting all stats
+2018-08-28 17:53:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:33 Error collecting all stats
+2018-08-28 17:53:38 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:38 Error collecting all stats
+2018-08-28 17:53:43 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:43 Error collecting all stats
+2018-08-28 17:53:48 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:48 Error collecting all stats
+2018-08-28 17:53:53 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:53 Error collecting all stats
+2018-08-28 17:53:58 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:53:58 Error collecting all stats
+2018-08-28 17:54:03 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:03 Error collecting all stats
+2018-08-28 17:54:08 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:08 Error collecting all stats
+2018-08-28 17:54:13 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:13 Error collecting all stats
+2018-08-28 17:54:18 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:18 Error collecting all stats
+2018-08-28 17:54:23 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:23 Error collecting all stats
+2018-08-28 17:54:28 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:28 Error collecting all stats
+2018-08-28 17:54:33 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:33 Error collecting all stats
+2018-08-28 17:54:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:39 Error collecting all stats
+2018-08-28 17:54:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:44 Error collecting all stats
+2018-08-28 17:54:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:49 Error collecting all stats
+2018-08-28 17:54:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:54 Error collecting all stats
+2018-08-28 17:54:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:54:59 Error collecting all stats
+2018-08-28 17:55:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:04 Error collecting all stats
+2018-08-28 17:55:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:09 Error collecting all stats
+2018-08-28 17:55:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:14 Error collecting all stats
+2018-08-28 17:55:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:19 Error collecting all stats
+2018-08-28 17:55:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:24 Error collecting all stats
+2018-08-28 17:55:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:29 Error collecting all stats
+2018-08-28 17:55:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:34 Error collecting all stats
+2018-08-28 17:55:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:39 Error collecting all stats
+2018-08-28 17:55:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:44 Error collecting all stats
+2018-08-28 17:55:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:49 Error collecting all stats
+2018-08-28 17:55:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:54 Error collecting all stats
+2018-08-28 17:55:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:55:59 Error collecting all stats
+2018-08-28 17:56:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:04 Error collecting all stats
+2018-08-28 17:56:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:09 Error collecting all stats
+2018-08-28 17:56:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:14 Error collecting all stats
+2018-08-28 17:56:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:19 Error collecting all stats
+2018-08-28 17:56:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:24 Error collecting all stats
+2018-08-28 17:56:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:29 Error collecting all stats
+2018-08-28 17:56:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:34 Error collecting all stats
+2018-08-28 17:56:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:39 Error collecting all stats
+2018-08-28 17:56:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:44 Error collecting all stats
+2018-08-28 17:56:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:49 Error collecting all stats
+2018-08-28 17:56:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:54 Error collecting all stats
+2018-08-28 17:56:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:56:59 Error collecting all stats
+2018-08-28 17:57:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:04 Error collecting all stats
+2018-08-28 17:57:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:09 Error collecting all stats
+2018-08-28 17:57:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:14 Error collecting all stats
+2018-08-28 17:57:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:19 Error collecting all stats
+2018-08-28 17:57:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:24 Error collecting all stats
+2018-08-28 17:57:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:29 Error collecting all stats
+2018-08-28 17:57:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:34 Error collecting all stats
+2018-08-28 17:57:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:39 Error collecting all stats
+2018-08-28 17:57:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:44 Error collecting all stats
+2018-08-28 17:57:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:49 Error collecting all stats
+2018-08-28 17:57:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:54 Error collecting all stats
+2018-08-28 17:57:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:57:59 Error collecting all stats
+2018-08-28 17:58:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:04 Error collecting all stats
+2018-08-28 17:58:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:09 Error collecting all stats
+2018-08-28 17:58:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:14 Error collecting all stats
+2018-08-28 17:58:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:19 Error collecting all stats
+2018-08-28 17:58:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:24 Error collecting all stats
+2018-08-28 17:58:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:29 Error collecting all stats
+2018-08-28 17:58:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:34 Error collecting all stats
+2018-08-28 17:58:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:39 Error collecting all stats
+2018-08-28 17:58:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:44 Error collecting all stats
+2018-08-28 17:58:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:49 Error collecting all stats
+2018-08-28 17:58:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:54 Error collecting all stats
+2018-08-28 17:58:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:58:59 Error collecting all stats
+2018-08-28 17:59:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:04 Error collecting all stats
+2018-08-28 17:59:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:09 Error collecting all stats
+2018-08-28 17:59:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:14 Error collecting all stats
+2018-08-28 17:59:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:19 Error collecting all stats
+2018-08-28 17:59:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:24 Error collecting all stats
+2018-08-28 17:59:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:29 Error collecting all stats
+2018-08-28 17:59:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:34 Error collecting all stats
+2018-08-28 17:59:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:39 Error collecting all stats
+2018-08-28 17:59:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:44 Error collecting all stats
+2018-08-28 17:59:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:49 Error collecting all stats
+2018-08-28 17:59:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:54 Error collecting all stats
+2018-08-28 17:59:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 17:59:59 Error collecting all stats
+2018-08-28 18:00:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:04 Error collecting all stats
+2018-08-28 18:00:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:09 Error collecting all stats
+2018-08-28 18:00:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:14 Error collecting all stats
+2018-08-28 18:00:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:19 Error collecting all stats
+2018-08-28 18:00:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:24 Error collecting all stats
+2018-08-28 18:00:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:29 Error collecting all stats
+2018-08-28 18:00:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:34 Error collecting all stats
+2018-08-28 18:00:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:39 Error collecting all stats
+2018-08-28 18:00:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:44 Error collecting all stats
+2018-08-28 18:00:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:49 Error collecting all stats
+2018-08-28 18:00:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:54 Error collecting all stats
+2018-08-28 18:00:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:00:59 Error collecting all stats
+2018-08-28 18:01:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:04 Error collecting all stats
+2018-08-28 18:01:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:09 Error collecting all stats
+2018-08-28 18:01:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:14 Error collecting all stats
+2018-08-28 18:01:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:19 Error collecting all stats
+2018-08-28 18:01:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:24 Error collecting all stats
+2018-08-28 18:01:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:29 Error collecting all stats
+2018-08-28 18:01:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:34 Error collecting all stats
+2018-08-28 18:01:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:39 Error collecting all stats
+2018-08-28 18:01:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:44 Error collecting all stats
+2018-08-28 18:01:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:49 Error collecting all stats
+2018-08-28 18:01:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:54 Error collecting all stats
+2018-08-28 18:01:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:01:59 Error collecting all stats
+2018-08-28 18:02:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:04 Error collecting all stats
+2018-08-28 18:02:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:09 Error collecting all stats
+2018-08-28 18:02:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:14 Error collecting all stats
+2018-08-28 18:02:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:19 Error collecting all stats
+2018-08-28 18:02:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:24 Error collecting all stats
+2018-08-28 18:02:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:29 Error collecting all stats
+2018-08-28 18:02:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:34 Error collecting all stats
+2018-08-28 18:02:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:39 Error collecting all stats
+2018-08-28 18:02:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:44 Error collecting all stats
+2018-08-28 18:02:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:49 Error collecting all stats
+2018-08-28 18:02:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:54 Error collecting all stats
+2018-08-28 18:02:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:02:59 Error collecting all stats
+2018-08-28 18:03:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:04 Error collecting all stats
+2018-08-28 18:03:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:09 Error collecting all stats
+2018-08-28 18:03:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:14 Error collecting all stats
+2018-08-28 18:03:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:19 Error collecting all stats
+2018-08-28 18:03:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:24 Error collecting all stats
+2018-08-28 18:03:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:29 Error collecting all stats
+2018-08-28 18:03:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:34 Error collecting all stats
+2018-08-28 18:03:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:39 Error collecting all stats
+2018-08-28 18:03:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:44 Error collecting all stats
+2018-08-28 18:03:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:49 Error collecting all stats
+2018-08-28 18:03:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:54 Error collecting all stats
+2018-08-28 18:03:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:03:59 Error collecting all stats
+2018-08-28 18:04:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:04 Error collecting all stats
+2018-08-28 18:04:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:09 Error collecting all stats
+2018-08-28 18:04:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:14 Error collecting all stats
+2018-08-28 18:04:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:19 Error collecting all stats
+2018-08-28 18:04:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:24 Error collecting all stats
+2018-08-28 18:04:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:29 Error collecting all stats
+2018-08-28 18:04:34 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:34 Error collecting all stats
+2018-08-28 18:04:39 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:39 Error collecting all stats
+2018-08-28 18:04:44 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:44 Error collecting all stats
+2018-08-28 18:04:49 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:49 Error collecting all stats
+2018-08-28 18:04:54 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:54 Error collecting all stats
+2018-08-28 18:04:59 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:04:59 Error collecting all stats
+2018-08-28 18:05:04 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:05:04 Error collecting all stats
+2018-08-28 18:05:09 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:05:09 Error collecting all stats
+2018-08-28 18:05:14 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:05:14 Error collecting all stats
+2018-08-28 18:05:19 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:05:19 Error collecting all stats
+2018-08-28 18:05:24 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:05:24 Error collecting all stats
+2018-08-28 18:05:29 Error getting daemon data {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":12346}
+2018-08-28 18:05:29 Error collecting all stats
